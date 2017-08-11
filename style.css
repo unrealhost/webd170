@@ -20,6 +20,7 @@ a:not(.nothx) {
     margin-bottom: 8px;
     width: calc(50% - 4px);
     margin-right: 8px;
+    cursor: default;
 }
 
 a:nth-of-type(2n) {
