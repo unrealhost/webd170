@@ -12,7 +12,7 @@
     var pluginName = "sliphover",
         defaults = {
             target: 'img', //the element that the overlay will attach to
-            caption: 'alt', //the caption that will display when hover
+            caption: 'title', //the caption that will display when hover
             duration: 'fast', //specify how long the animation will lasts in milliseconds
             fontColor: '#fff',
             textAlign: 'center', //display the caption left, center or right
